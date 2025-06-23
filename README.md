@@ -1,10 +1,13 @@
 # Climate Monitor
 
 ## Scope & Purpose
-I am continuing learning Arduino, my new small project is the use of DHT11 Temperatrure and Humidity modue and the photoresistor to display temperature(C), humidity(%), and light(%). To display the information I use the Liquid Crystal Display.
+As part of my ongoing Arduino learning, I built a small project using the DHT11 temperature and humidity sensor along with a photoresistor to measure and display temperature (°C), humidity (%), and light intensity (%). The data is shown on a 16x2 Liquid Crystal Display.
 
-## Curcuit Diagram
+## Circuit Diagram
 ![Circuit](images/circuit.png)
 
 ## Demo
 [Watch Demo](https://youtube.com/shorts/g7RLMQtHDNw?feature=share)
+
+## License
+This project is licensed under the MIT License.
