@@ -5,3 +5,6 @@ I am continuing learning Arduino, my new small project is the use of DHT11 Tempe
 
 ## Curcuit Diagram
 ![Circuit](images/circuit.png)
+
+## Demo
+[Watch Demo](https://youtube.com/shorts/g7RLMQtHDNw?feature=share)
