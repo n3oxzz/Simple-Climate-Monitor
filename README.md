@@ -10,4 +10,4 @@ As part of my ongoing Arduino learning, I built a small project using the DHT11 
 [Watch Demo](https://youtube.com/shorts/g7RLMQtHDNw?feature=share)
 
 ## License
-[MIT](https://opensource.org/license/mit/)
+[MIT](https://mit-license.org/)
